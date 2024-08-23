@@ -10,6 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ChandanB17](https://github.com/ChandanB17)
 
 - 📫 How to reach me **chandanb200317@gmail.com**
+- portfolio link **https://chandan-portfolio-chi.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
